@@ -1,7 +1,8 @@
 # For personal setting:
-.ipynb
+*.ipynb
 .idea/
 .ipynb_checkpoints/
+Last_success.ini
 
 
 # Byte-compiled / optimized / DLL files
