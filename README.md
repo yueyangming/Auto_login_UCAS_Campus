@@ -30,6 +30,3 @@ result, result_dict = login(userid,password, session,Cookie_object)
 
 
 
-
-
-## As a programmer, just use programming to change this world. 
